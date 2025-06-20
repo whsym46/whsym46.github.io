@@ -1382,10 +1382,6 @@ p:last-child {
   height: 1px;
 }
 
-.h-6 {
-  height: 1.5rem;
-}
-
 .max-h-28 {
   max-height: 7rem;
 }
@@ -1485,6 +1481,10 @@ p:last-child {
 
 .w-full {
   width: 100%;
+}
+
+.w-1\/2 {
+  width: 50%;
 }
 
 .min-w-12 {
@@ -1921,6 +1921,11 @@ p:last-child {
   border-color: rgb(38 220 170 / var(--tw-border-opacity, 1));
 }
 
+.border-red-700 {
+  --tw-border-opacity: 1;
+  border-color: rgb(185 28 28 / var(--tw-border-opacity, 1));
+}
+
 .bg-ColorBlack {
   --tw-bg-opacity: 1;
   background-color: rgb(10 16 47 / var(--tw-bg-opacity, 1));
@@ -2129,6 +2134,11 @@ p:last-child {
 
 .bg-white\/5 {
   background-color: rgb(255 255 255 / 0.05);
+}
+
+.bg-red-400 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(248 113 113 / var(--tw-bg-opacity, 1));
 }
 
 .bg-opacity-5 {
