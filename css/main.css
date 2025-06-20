@@ -1382,6 +1382,10 @@ p:last-child {
   height: 1px;
 }
 
+.h-6 {
+  height: 1.5rem;
+}
+
 .max-h-28 {
   max-height: 7rem;
 }
@@ -4619,4 +4623,17 @@ p:last-child {
 
 .\[\&\>p\]\:\[text-indent\:2em\]>p {
   text-indent: 2em;
+}
+
+.\[\&\>ul\]\:my-4>ul {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.\[\&\>ul\]\:list-inside>ul {
+  list-style-position: inside;
+}
+
+.\[\&\>ul\]\:list-disc>ul {
+  list-style-type: disc;
 }
