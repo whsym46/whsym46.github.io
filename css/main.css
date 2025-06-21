@@ -1116,6 +1116,10 @@ p:last-child {
   margin-left: 0.5rem;
 }
 
+.ml-3 {
+  margin-left: 0.75rem;
+}
+
 .ml-4 {
   margin-left: 1rem;
 }
@@ -1313,6 +1317,14 @@ p:last-child {
   height: 1px;
 }
 
+.h-32 {
+  height: 8rem;
+}
+
+.h-\[243px\] {
+  height: 243px;
+}
+
 .max-h-28 {
   max-height: 7rem;
 }
@@ -1392,6 +1404,10 @@ p:last-child {
 
 .w-full {
   width: 100%;
+}
+
+.w-\[353px\] {
+  width: 353px;
 }
 
 .min-w-12 {
@@ -1644,10 +1660,28 @@ p:last-child {
   row-gap: 30px;
 }
 
+.space-y-1 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-y-reverse: 0;
+  margin-top: calc(0.25rem * calc(1 - var(--tw-space-y-reverse)));
+  margin-bottom: calc(0.25rem * var(--tw-space-y-reverse));
+}
+
 .space-y-2 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-y-reverse: 0;
   margin-top: calc(0.5rem * calc(1 - var(--tw-space-y-reverse)));
   margin-bottom: calc(0.5rem * var(--tw-space-y-reverse));
+}
+
+.space-y-4 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-y-reverse: 0;
+  margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse)));
+  margin-bottom: calc(1rem * var(--tw-space-y-reverse));
+}
+
+.space-y-6 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-y-reverse: 0;
+  margin-top: calc(1.5rem * calc(1 - var(--tw-space-y-reverse)));
+  margin-bottom: calc(1.5rem * var(--tw-space-y-reverse));
 }
 
 .overflow-hidden {
@@ -1782,6 +1816,10 @@ p:last-child {
 .border-skoolink-400 {
   --tw-border-opacity: 1;
   border-color: rgb(38 220 170 / var(--tw-border-opacity, 1));
+}
+
+.border-white\/5 {
+  border-color: rgb(255 255 255 / 0.05);
 }
 
 .bg-ColorBlack {
@@ -2121,11 +2159,6 @@ p:last-child {
   padding-right: 30px;
 }
 
-.py-0 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-}
-
 .py-1 {
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
@@ -2373,10 +2406,6 @@ p:last-child {
 
 .leading-none {
   line-height: 1;
-}
-
-.leading-6 {
-  line-height: 1.5rem;
 }
 
 .-tracking-\[0\.5px\] {
@@ -3567,6 +3596,22 @@ p:last-child {
   border-color: rgb(21 207 146 / var(--tw-border-opacity, 1));
 }
 
+.focus\:outline-none:focus {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+
+.focus\:ring-2:focus {
+  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
+  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
+  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
+}
+
+.focus\:ring-\[\#15cf92\]:focus {
+  --tw-ring-opacity: 1;
+  --tw-ring-color: rgb(21 207 146 / var(--tw-ring-opacity, 1));
+}
+
 .active\:bg-ColorBlue:active {
   --tw-bg-opacity: 1;
   background-color: rgb(49 71 255 / var(--tw-bg-opacity, 1));
@@ -3908,11 +3953,6 @@ p:last-child {
     padding-bottom: 5rem;
   }
 
-  .md\:py-4 {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-  }
-
   .md\:pt-36 {
     padding-top: 9rem;
   }
@@ -3939,10 +3979,6 @@ p:last-child {
 }
 
 @media (min-width: 992px) {
-  .lg\:col-span-12 {
-    grid-column: span 12 / span 12;
-  }
-
   .lg\:col-span-2 {
     grid-column: span 2 / span 2;
   }
@@ -4388,17 +4424,12 @@ p:last-child {
   margin-bottom: 0.75rem;
 }
 
-.\[\&\>p\]\:py-2>p {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+.\[\&\>p\]\:mb-0>p {
+  margin-bottom: 0px;
 }
 
 .\[\&\>p\]\:text-justify>p {
   text-align: justify;
-}
-
-.\[\&\>p\]\:leading-4>p {
-  line-height: 1rem;
 }
 
 .\[\&\>p\]\:leading-6>p {
