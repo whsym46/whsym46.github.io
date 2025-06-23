@@ -1268,6 +1268,10 @@ p:last-child {
   height: 45%;
 }
 
+.h-\[450px\] {
+  height: 450px;
+}
+
 .h-\[45px\] {
   height: 45px;
 }
@@ -1325,6 +1329,10 @@ p:last-child {
   max-height: 7rem;
 }
 
+.max-h-\[320px\] {
+  max-height: 320px;
+}
+
 .min-h-20 {
   min-height: 5rem;
 }
@@ -1343,6 +1351,10 @@ p:last-child {
 
 .w-64 {
   width: 16rem;
+}
+
+.w-\[150px\] {
+  width: 150px;
 }
 
 .w-\[306px\] {
@@ -1391,6 +1403,10 @@ p:last-child {
 
 .w-\[80px\] {
   width: 80px;
+}
+
+.w-\[856px\] {
+  width: 856px;
 }
 
 .w-auto {
