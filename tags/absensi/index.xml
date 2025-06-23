@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Absensi on Skoolink</title><link>https://skoolink.id/tags/absensi/</link><description>Recent content in Absensi on Skoolink</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0700</lastBuildDate><atom:link href="https://skoolink.id/tags/absensi/index.xml" rel="self" type="application/rss+xml"/><item><title>Presensi Digital</title><link>https://skoolink.id/features/presensi-digital/</link><pubDate>Fri, 20 Jun 2025 00:00:00 +0700</pubDate><guid>https://skoolink.id/features/presensi-digital/</guid><description>Absensi digital yang modern, praktis, dan terpantau langsung oleh orang tua.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Absensi on Skoolink</title>
+    <link>http://localhost:1313/tags/absensi/</link>
+    <description>Recent content in Absensi on Skoolink</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/absensi/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
