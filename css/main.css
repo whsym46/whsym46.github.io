@@ -1244,6 +1244,10 @@ p:last-child {
   height: 1px;
 }
 
+.h-\[243px\] {
+  height: 243px;
+}
+
 .h-\[30px\] {
   height: 30px;
 }
@@ -1317,14 +1321,6 @@ p:last-child {
   height: 1px;
 }
 
-.h-32 {
-  height: 8rem;
-}
-
-.h-\[243px\] {
-  height: 243px;
-}
-
 .max-h-28 {
   max-height: 7rem;
 }
@@ -1359,6 +1355,10 @@ p:last-child {
 
 .w-\[320px\] {
   width: 320px;
+}
+
+.w-\[353px\] {
+  width: 353px;
 }
 
 .w-\[35px\] {
@@ -1404,10 +1404,6 @@ p:last-child {
 
 .w-full {
   width: 100%;
-}
-
-.w-\[353px\] {
-  width: 353px;
 }
 
 .min-w-12 {
