@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pendaftaran Siswa on Skoolink</title><link>https://skoolink.id/tags/pendaftaran-siswa/</link><description>Recent content in Pendaftaran Siswa on Skoolink</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 17 Jun 2025 08:00:00 +0000</lastBuildDate><atom:link href="https://skoolink.id/tags/pendaftaran-siswa/index.xml" rel="self" type="application/rss+xml"/><item><title>Peran Platform Edukasi dalam Persiapan SPMB</title><link>https://skoolink.id/blog/peran-platform-edukasi-dalam-persiapan-spmb/</link><pubDate>Tue, 17 Jun 2025 08:00:00 +0000</pubDate><guid>https://skoolink.id/blog/peran-platform-edukasi-dalam-persiapan-spmb/</guid><description>SPMB jadi lebih mudah dan terstruktur dengan bantuan platform edukasi digital. Pelajari bagaimana teknologi mempermudah proses seleksi siswa baru.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pendaftaran Siswa on Skoolink</title>
+    <link>http://localhost:1313/tags/pendaftaran-siswa/</link>
+    <description>Recent content in Pendaftaran Siswa on Skoolink</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jun 2025 08:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pendaftaran-siswa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peran Platform Edukasi dalam Persiapan SPMB</title>
+      <link>http://localhost:1313/blog/peran-platform-edukasi-dalam-persiapan-spmb/</link>
+      <pubDate>Tue, 17 Jun 2025 08:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/peran-platform-edukasi-dalam-persiapan-spmb/</guid>
+      <description>SPMB jadi lebih mudah dan terstruktur dengan bantuan platform edukasi digital. Pelajari bagaimana teknologi mempermudah proses seleksi siswa baru.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,8 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sections on Skoolink</title><link>https://skoolink.id/sections/</link><description>Recent content in Sections on Skoolink</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://skoolink.id/sections/index.xml" rel="self" type="application/rss+xml"/><item><title>Brand Slider</title><link>https://skoolink.id/sections/brands/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://skoolink.id/sections/brands/</guid><description/></item><item><title>Contact Us</title><link>https://skoolink.id/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://skoolink.id/contact/</guid><description>Hubungi Kami
-Kami dengan senang hati menerima pesan dari Anda!
-Untuk pertanyaan, masukan, kerjasama, atau permintaan media, jangan ragu untuk menghubungi tim kami melalui: Jl. Cililitan Besar No.3 Jakarta Timur 13570
-Indonesia
-Ruko Blok A No. 5 Perum Graha Indah,
-Lamongan 62281
-Jawa Timur.
-&amp;#43;62 877-0101-1100hello@skoolink.idTim kami akan merespons secepat mungkin pada jam kerja. Terima kasih atas minat dan kepercayaan Anda terhadap Skoolink .</description></item><item><title>CTA Skoolink</title><link>https://skoolink.id/sections/cta/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://skoolink.id/sections/cta/</guid><description/></item><item><title>FAQ Skoolink</title><link>https://skoolink.id/sections/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://skoolink.id/sections/faq/</guid><description/></item><item><title>Fitur Unggulan Skoolink</title><link>https://skoolink.id/sections/features/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://skoolink.id/sections/features/</guid><description/></item><item><title>Permudah Operasional Sekolah dengan Satu Aplikasi</title><link>https://skoolink.id/sections/hero/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://skoolink.id/sections/hero/</guid><description>Skoolink membantu sekolah mengelola absensi, PPDB, keuangan, akademik, dan komunikasi dalam satu platform terpadu.</description></item><item><title>Pertanyaan yang Sering Ditanyakan</title><link>https://skoolink.id/sections/faq-umum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://skoolink.id/sections/faq-umum/</guid><description/></item><item><title>Rasakan Keuntungan Menggunakan Skoolink</title><link>https://skoolink.id/sections/benefit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://skoolink.id/sections/benefit/</guid><description>Bayangkan sebuah hari di mana absensi tercatat otomatis, pembayaran terpantau real-time, dan orang tua mendapatkan info nilai anak mereka hanya dengan satu klik. Semua itu bukan sekadar wacana — Skoolink sudah mewujudkannya di ratusan sekolah di Indonesia. Kini giliran sekolah Anda untuk merasakan pengalaman yang sama.</description></item><item><title>Solusi Digital untuk Manajemen Sekolah Modern</title><link>https://skoolink.id/sections/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://skoolink.id/sections/about/</guid><description>Skoolink dirancang untuk kepala sekolah, yayasan, dan staf admin yang ingin meningkatkan efisiensi dan transparansi. Dengan satu aplikasi, semua proses operasional sekolah menjadi lebih mudah, cepat, dan akurat.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Skoolink</title>
+    <link>http://localhost:1313/sections/</link>
+    <description>Recent content in Sections on Skoolink</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/sections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brand Slider</title>
+      <link>http://localhost:1313/sections/brands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sections/brands/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Hubungi Kami&#xA;Kami dengan senang hati menerima pesan dari Anda!&#xA;Untuk pertanyaan, masukan, kerjasama, atau permintaan media, jangan ragu untuk menghubungi tim kami melalui: Jl. Cililitan Besar No.3 Jakarta Timur 13570&#xA;Indonesia&#xA;Ruko Blok A No. 5 Perum Graha Indah,&#xA;Lamongan 62281&#xA;Jawa Timur.&#xA;&amp;#43;62 877-0101-1100&#xD;hello@skoolink.id&#xD;Tim kami akan merespons secepat mungkin pada jam kerja. Terima kasih atas minat dan kepercayaan Anda terhadap Skoolink .</description>
+    </item>
+    <item>
+      <title>CTA Skoolink</title>
+      <link>http://localhost:1313/sections/cta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sections/cta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FAQ Skoolink</title>
+      <link>http://localhost:1313/sections/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sections/faq/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fitur Unggulan Skoolink</title>
+      <link>http://localhost:1313/sections/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sections/features/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Permudah Operasional Sekolah dengan Satu Aplikasi</title>
+      <link>http://localhost:1313/sections/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sections/hero/</guid>
+      <description>Skoolink membantu sekolah mengelola absensi, PPDB, keuangan, akademik, dan komunikasi dalam satu platform terpadu.</description>
+    </item>
+    <item>
+      <title>Pertanyaan yang Sering Ditanyakan</title>
+      <link>http://localhost:1313/sections/faq-umum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sections/faq-umum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rasakan Keuntungan Menggunakan Skoolink</title>
+      <link>http://localhost:1313/sections/benefit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sections/benefit/</guid>
+      <description>Bayangkan sebuah hari di mana absensi tercatat otomatis, pembayaran terpantau real-time, dan orang tua mendapatkan info nilai anak mereka hanya dengan satu klik. Semua itu bukan sekadar wacana — Skoolink sudah mewujudkannya di ratusan sekolah di Indonesia. Kini giliran sekolah Anda untuk merasakan pengalaman yang sama.</description>
+    </item>
+    <item>
+      <title>Solusi Digital untuk Manajemen Sekolah Modern</title>
+      <link>http://localhost:1313/sections/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sections/about/</guid>
+      <description>Skoolink dirancang untuk kepala sekolah, yayasan, dan staf admin yang ingin meningkatkan efisiensi dan transparansi. Dengan satu aplikasi, semua proses operasional sekolah menjadi lebih mudah, cepat, dan akurat.</description>
+    </item>
+  </channel>
+</rss>

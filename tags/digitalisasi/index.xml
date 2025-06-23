@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Digitalisasi on Skoolink</title><link>https://skoolink.id/tags/digitalisasi/</link><description>Recent content in Digitalisasi on Skoolink</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 19 Jun 2025 09:00:00 +0000</lastBuildDate><atom:link href="https://skoolink.id/tags/digitalisasi/index.xml" rel="self" type="application/rss+xml"/><item><title>Manfaat Digitalisasi Sekolah untuk Guru dan Siswa</title><link>https://skoolink.id/blog/manfaat-digitalisasi-sekolah-untuk-guru-dan-siswa/</link><pubDate>Thu, 19 Jun 2025 09:00:00 +0000</pubDate><guid>https://skoolink.id/blog/manfaat-digitalisasi-sekolah-untuk-guru-dan-siswa/</guid><description>Mengapa digitalisasi menjadi kebutuhan mendesak dalam dunia pendidikan modern? Temukan jawabannya di sini.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digitalisasi on Skoolink</title>
+    <link>http://localhost:1313/tags/digitalisasi/</link>
+    <description>Recent content in Digitalisasi on Skoolink</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jun 2025 09:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/digitalisasi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manfaat Digitalisasi Sekolah untuk Guru dan Siswa</title>
+      <link>http://localhost:1313/blog/manfaat-digitalisasi-sekolah-untuk-guru-dan-siswa/</link>
+      <pubDate>Thu, 19 Jun 2025 09:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/manfaat-digitalisasi-sekolah-untuk-guru-dan-siswa/</guid>
+      <description>Mengapa digitalisasi menjadi kebutuhan mendesak dalam dunia pendidikan modern? Temukan jawabannya di sini.</description>
+    </item>
+  </channel>
+</rss>
