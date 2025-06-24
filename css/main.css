@@ -4022,8 +4022,8 @@ p:last-child {
     bottom: -15%;
   }
 
-  .lg\:-left-\[40\%\] {
-    left: -40%;
+  .lg\:-left-\[50\%\] {
+    left: -50%;
   }
 
   .lg\:bottom-\[0\%\] {
@@ -4315,6 +4315,10 @@ p:last-child {
 }
 
 @media (min-width: 1200px) {
+  .xl\:-left-\[40\%\] {
+    left: -40%;
+  }
+
   .xl\:mb-20 {
     margin-bottom: 5rem;
   }
