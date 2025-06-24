@@ -20,8 +20,8 @@ JOS.init({
   scrollDirection: "down", // Set the scroll direction for the element to be visible | Values :  'up', 'down', 'none'
   //scrollProgressDisable: true // disable or enable scroll callback function | Values :  'true', 'false'
   // intersectionRatio: 0.4, // Set the intersection ratio between which the element should be visible | Values :  0-1 (automaticaly set)
-  // rootMargin_top: "0%", // Set by which percent the element should animate out (Recommended value between 10% to -30%)
-  // rootMargin_bottom: "-50%", // Set by which percent the element should animate out (Recommended value between -10% to -60%)
+  // rootMargin_top: "0%", // Set Oleh which percent the element should animate out (Recommended value between 10% to -30%)
+  // rootMargin_bottom: "-50%", // Set Oleh which percent the element should animate out (Recommended value between -10% to -60%)
   rootMargin: "0% 0% 15% 0%", // Set the root margin for the element to be visible | Values :  _% _% _% _%  (automaticaly set)
 });
 
