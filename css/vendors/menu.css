@@ -719,6 +719,12 @@
   .site-header .mobile-menu-trigger span:after {
     top: 8px;
   }
+  .group:hover .mobile-menu-trigger span,
+.group:hover .mobile-menu-trigger span:before,
+.group:hover .mobile-menu-trigger span:after {
+  background-color: #fff !important;
+}
+
 
   .site-header .item-right {
     align-items: center;
