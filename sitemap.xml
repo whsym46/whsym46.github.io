@@ -2,8 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/legal/privacy-policy/</loc>
+    <lastmod>2025-08-20T09:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/privacy-policy/</loc>
+    <lastmod>2025-08-20T09:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/legal/</loc>
+    <lastmod>2025-08-20T09:00:00+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-26T08:00:00+00:00</lastmod>
+    <lastmod>2025-08-20T09:00:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about-us/</loc>
     <lastmod>2025-06-26T08:00:00+00:00</lastmod>
@@ -144,8 +153,6 @@
   </url><url>
     <loc>http://localhost:1313/terms-of-service/</loc>
   </url><url>
-    <loc>http://localhost:1313/legal/</loc>
-  </url><url>
     <loc>http://localhost:1313/sections/benefit2/</loc>
   </url><url>
     <loc>http://localhost:1313/testimonials/</loc>
@@ -153,8 +160,6 @@
     <loc>http://localhost:1313/sections/hero/</loc>
   </url><url>
     <loc>http://localhost:1313/sections/faq-umum/</loc>
-  </url><url>
-    <loc>http://localhost:1313/privacy-policy/</loc>
   </url><url>
     <loc>http://localhost:1313/sections/benefit/</loc>
   </url><url>
